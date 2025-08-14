@@ -2,3 +2,6 @@ Pembelajaran pertama mengenai branch
 
 -Step AWal
 -Bracnh
+
+
+-Step Acak-test
