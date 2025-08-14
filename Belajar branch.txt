@@ -6,3 +6,5 @@ Pembelajaran pertama mengenai branch
 
 -Step Acak-test
 -test kedua 
+-Si A/orang 1 menambahkan Property
+-Si A menabahkan lagi
