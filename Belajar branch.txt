@@ -8,3 +8,4 @@ Pembelajaran pertama mengenai branch
 -test kedua 
 -Si A/orang 1 menambahkan Property
 -Si A menabahkan lagi
+-FOrk repo dari orang lain
